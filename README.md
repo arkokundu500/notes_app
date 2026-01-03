@@ -1,2 +1,2 @@
 Deployed Link:
-https://notesapp-arko.vercel.app/login
+https://notesapp-arko.vercel.app/
